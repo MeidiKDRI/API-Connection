@@ -4,7 +4,7 @@ import json
 import dateutil.parser
 
 api_url = 'https://api.meteo-concept.com/api/forecast/'
-token = '793c587d8805a5581f2378bf8db279c5041b9c3485df7f8298d708f73a19563b'
+token = 'Your_token_here'
 
 weather = {
     0: "Soleil",
